@@ -53,3 +53,12 @@
 
 ## Рузультати виконання програми
 ![3-9 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-9.jpg?raw=true)
+
+# Лабораторна робта №3-10
+- Створіть процедуру змінення значення глобальної змінної, не створюючи локальної, за допомогою слова global. 
+- x= 5- глобальна змінна.
+- Треба возвести її у четверту ступень.
+- Вивести змінене значення глобальної змінно
+
+## Рузультати виконання програми
+![3-10 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-10.jpg?raw=true)

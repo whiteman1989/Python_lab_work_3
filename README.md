@@ -74,8 +74,7 @@
 - Довжини сторін вводити з клавіатури.
 - Для підрахунку площі трикутника використовувати формулу Герона.
 - Обчислення площі оформити у вигляді функції з трьома параметрами.
-- Формула Герона:
-  ![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/formula_3-12.gif?raw=true)
+- Формула Герона: ![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/formula_3-12.gif?raw=true)
 
 ## Рузультати виконання програми
 ![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-12-1.jpg?raw=true)

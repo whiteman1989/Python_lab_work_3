@@ -30,3 +30,9 @@
 ## Рузультати виконання програми
 ![3-5 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-5.jpg?raw=true)
 
+# Лабораторна робта №3-6
+- Додайте будь який елемент у множину.
+
+## Рузультати виконання програми
+![3-6 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-6.jpg?raw=true)
+

@@ -3,4 +3,4 @@ def sum_of_number(number):
     return sum(int(i) for i in string)
 
 n = input("Веедіть число: ")
-print("Сума цифер числа : ", sum_of_number(n))
+print("Сума цифер числа: ", sum_of_number(n))

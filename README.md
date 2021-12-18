@@ -68,3 +68,15 @@
 
 ## Рузультати виконання програми
 ![3-11 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-11.jpg?raw=true)
+
+# Лабораторна робта №3-12
+- Визначте, чи є три трикутника рівновеликими.
+- Довжини сторін вводити з клавіатури.
+- Для підрахунку площі трикутника використовувати формулу Герона.
+- Обчислення площі оформити у вигляді функції з трьома параметрами.
+- Формула Герона:
+  ![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/formula_3-12.gif?raw=true)
+
+## Рузультати виконання програми
+![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-12-1.jpg?raw=true)
+![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-12-2.jpg?raw=true)

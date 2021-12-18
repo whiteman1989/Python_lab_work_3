@@ -16,3 +16,9 @@
 ## Рузультати виконання програми
 ![3-3 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-3.jpg?raw=true)
 
+# Лабораторна робта №3-4
+- Розрахувати кількість елементів у множині v = ['ccc', 'ddd', 'yyy', 'iii', ‘ccc’, ‘dd’].
+
+## Рузультати виконання програми
+![3-4 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-4.jpg?raw=true)
+

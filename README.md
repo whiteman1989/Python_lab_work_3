@@ -62,3 +62,9 @@
 
 ## Рузультати виконання програми
 ![3-10 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-10.jpg?raw=true)
+
+# Лабораторна робта №3-11
+- Створіть функцію, яка розраховує суму цифр числа, яке  вводиться з екрану.
+
+## Рузультати виконання програми
+![3-11 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-11.jpg?raw=true)

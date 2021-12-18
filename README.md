@@ -97,3 +97,10 @@
 
 ## Рузультати виконання програми
 ![3-14 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-14.jpg?raw=true)
+
+# Лабораторна робта №3-15
+- Дано 3 різних масиву цілих чисел (розмір кожного не перевищує 15).
+- Знайдіть кількість елементів сгенерованого масиву, які відмінні від найбільшого елемента не більше ніж на 10%.
+
+## Рузультати виконання програми
+![3-15 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-15.jpg?raw=true)

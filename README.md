@@ -80,3 +80,13 @@
 ## Рузультати виконання програми
 ![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-12-1.jpg?raw=true)
 ![3-12 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-12-2.jpg?raw=true)
+
+# Лабораторна робта №3-13
+- Введіть одновимірний масив A довжиною m.
+- Поміняйте в ньому місцями перший і останній елементи.
+- Довжину масиву і його елементи введіть з клавіатури.
+- У програмі опишіть процедуру для заміни елементів масиву.
+- Виведіть вихідні та отримані масиви.
+
+## Рузультати виконання програми
+![3-13 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-13.jpg?raw=true)

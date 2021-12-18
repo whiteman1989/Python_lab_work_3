@@ -103,3 +103,9 @@
 
 ## Рузультати виконання програми
 ![3-15 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-15.jpg?raw=true)
+
+# Лабораторна робта №3-a.i.1
+- Дані дійсні числа а0, ..., a6. Отримати для x = 1,3,4 значення р (х + 1) - р (х), де р (у) = a6y6 + a5y5 + ... + а 0.
+
+## Рузультати виконання програми
+![3-16 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-16.jpg?raw=true)

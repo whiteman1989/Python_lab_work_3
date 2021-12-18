@@ -47,3 +47,9 @@
 
 ## Рузультати виконання програми
 ![3-8 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-8.jpg?raw=true)
+
+# Лабораторна робта №3-9
+- Очистіть усі множини.
+
+## Рузультати виконання програми
+![3-9 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-9.jpg?raw=true)

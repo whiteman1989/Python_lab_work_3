@@ -22,3 +22,11 @@
 ## Рузультати виконання програми
 ![3-4 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-4.jpg?raw=true)
 
+# Лабораторна робта №3-5
+- Створіть дві множини. 
+- Об’єднайте їх.
+- Знайдіть їх перетин. 
+
+## Рузультати виконання програми
+![3-5 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-5.jpg?raw=true)
+

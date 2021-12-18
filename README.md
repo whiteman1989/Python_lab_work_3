@@ -36,3 +36,8 @@
 ## Рузультати виконання програми
 ![3-6 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-6.jpg?raw=true)
 
+# Лабораторна робта №3-7
+- Виділіть будь який елемент із множини.
+
+## Рузультати виконання програми
+![3-7 result](https://github.com/whiteman1989/Python_lab_work_3/blob/master/images/work_res_3-7.jpg?raw=true)
